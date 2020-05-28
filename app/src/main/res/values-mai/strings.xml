@@ -51,7 +51,8 @@
   <string name="sample_collected_for_testing">टेस्टिंग के लेल सैंपल कलेक्ट भ गेल अछि</string> 
 <string name="tested_positive">Covid19 क टेस्ट पॉजिटिव अछि</string> 
 <string name="syncing_data">डेटा सिंक भ रहल अछि</string> 
-<string name="syncing_data_detail"><![CDATA[भारत सरकार के ब्लूटूथ और GPS के माध्यम सँ प्राप्त संवाद डेटा भेजल जा रहल अछि]]></string> <string name="cancel">कैंसल करू</string>
+<string name="syncing_data_detail"><![CDATA[भारत सरकार के ब्लूटूथ और GPS के माध्यम सँ प्राप्त संवाद डेटा भेजल जा रहल अछि]]></string>
+ <string name="cancel">कैंसल करू</string>
   <string name="syncing_data_success">सिंक भ गेल अछि</string>
   <string name="syncing_data_success_detail">अहाँके डेटा आब भारत सरकार के सर्वर पर सुरक्षित अछि.</string> 
 <string name="syncing_data_failed">सिंक नइ भ पेल्</string>
@@ -83,7 +84,8 @@
   <string name="terms_of_use">उपयोगक शर्तें</string>
   <string name="app_version">ऐप संस्करण %s</string> 
 <string name="scan_prompt">कोनो और के स्वास्थ्य के स्थिति के जांच के लेल QR कोड स्कैन करु</string> 
-<string name="few_seconds">किछु क्षण</string> <string name="minutes">मिनट</string> 
+<string name="few_seconds">किछु क्षण</string> 
+<string name="minutes">मिनट</string> 
 <string name="scan_to_check_status">हमर स्वास्थ्य स्थिति प्राप्त करने के लिए QR कोड स्कैन करू</string>
   <string name="tap_to_refresh">QR कोड ताज़ा करे के लेल टैप करू</string> 
 <string name="qr_code_valid_for">QR कोड के लेल मान्य छि</string> 
@@ -92,7 +94,8 @@
 <string name="invalid_qr_code">अमान्य क्यूआर कोड</string> 
 <string name="not_generated_aarogya_setu">एकरा आधिकारिक आरोग्य सेतु ऐप सँ जनरेट नइ केल गेल अछि।</string
   > <string name="request_new_code">कृपया नव कोड जनरेट करबाके लेल लोक सँ अनुरोध करू</string>
- <string name="expired_code">समय सीमा समाप्त क्यूआर कोड</string> <string name="low_risk">संक्रमणक कम जोखिम अछि</string>
+ <string name="expired_code">समय सीमा समाप्त क्यूआर कोड</string> 
+<string name="low_risk">संक्रमणक कम जोखिम अछि</string>
   <string name="moderate_risk">संक्रमणक मध्यम जोखिम अछि</string> 
 <string name="high_risk">संक्रमणक उच्च जोखिम अछि</string> 
   <string name="tested_positive_status">COVID-19 के लेल सकारात्मक परीक्षण केल गेल अछि</string> 

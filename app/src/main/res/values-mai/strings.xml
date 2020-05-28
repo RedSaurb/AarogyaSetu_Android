@@ -7,10 +7,12 @@
   <string name="location_text">अहाँ सँ अनुरोध अइछ की अहाँ अपन मोबाइल के लोकेशन के सेटिंग के \'Always\' पर सेट करब।अहाँ एकरा बाद में कखनो बदईल सकैत छी।</string>
   <!-- phone_number_layout --> 
   <string name="enter_mobile_number">मोबाइल नंबर एंटर करू</string> 
-  <string name="country_code">+91 </string> <string name="mobile_number">मोबाइल नंबर</string>
+  <string name="country_code">+91 </string> 
+<string name="mobile_number">मोबाइल नंबर</string>
   <string name="why_is_it_needed"> एकर आवश्यकता?</string> 
 <string name="submit">सबमिट करू</string>
-  <string name="resend_otp">OTP के पुनः भेजु</string> <string name="resend_otp_in">%s में OTP पुनः भेजु</string>
+  <string name="resend_otp">OTP के पुनः भेजु</string>
+ <string name="resend_otp_in">%s में OTP पुनः भेजु</string>
   <!-- otp_validation_layout --> 
   <string name="enter_otp">OTP एंटर करू</string> 
   <string name="we_have_sent_otp">अहाँ के मोबाइल नंबर पर OTP भेजल गेल ।</string> 

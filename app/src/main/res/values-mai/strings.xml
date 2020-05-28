@@ -8,13 +8,15 @@
   <!-- phone_number_layout --> 
   <string name="enter_mobile_number">मोबाइल नंबर एंटर करू</string> 
   <string name="country_code">+91 </string> <string name="mobile_number">मोबाइल नंबर</string>
-  <string name="why_is_it_needed"> एकर आवश्यकता?</string> <string name="submit">सबमिट करू</string>
+  <string name="why_is_it_needed"> एकर आवश्यकता?</string> 
+<string name="submit">सबमिट करू</string>
   <string name="resend_otp">OTP के पुनः भेजु</string> <string name="resend_otp_in">%s में OTP पुनः भेजु</string>
   <!-- otp_validation_layout --> 
   <string name="enter_otp">OTP एंटर करू</string> 
   <string name="we_have_sent_otp">अहाँ के मोबाइल नंबर पर OTP भेजल गेल ।</string> 
   <string name="we_have_resent_otp"> अहाँ के मोबाइल नंबर पर OTP फेर सँ भेजल गेल।</string> 
-  <string name="otp">OTP</string> <string name="please_enter_a_valid_otp">कृपया वैध OTP दर्ज करू</string>
+  <string name="otp">OTP</string> 
+<string name="please_enter_a_valid_otp">कृपया वैध OTP दर्ज करू</string>
   <!-- why_needed_layout --> 
   <string name="i_understand">हम बुझयत छि।</string>
   <string name="device_location"><![CDATA[<b>मोबाइल लोकेशन</b>]]></string>
@@ -24,7 +26,8 @@
   <string name="tracks_an_individual_s_touch_points_so_can_easily_find_others_who_came_in_close_contact">अहाँक डेटा केवल भारत सरकार सँ शेयर केल जाएत ।\n ई ऐप अहाँके नाम और नंबर के खुलासा केकरो सँ नइ करत ।</string> 
   <string name="contribute_to_a_safer_india">हम सहमत छी</string> <string name="please_select_a_language_en">Please select your language\nकृपया अपन भाषा चुनु</string>
   <string name="next">आगु</string> <string name="please_select_a_language_to_proceed">कृपया आगु बढ्बाक लेल एक भाषा चुनु।</string>
-  <!-- Strings used for fragments for navigation --> <string name="please_enter_a_valid_number">कृपया सही नंबर दर्ज करू</string> 
+  <!-- Strings used for fragments for navigation --> 
+<string name="please_enter_a_valid_number">कृपया सही नंबर दर्ज करू</string> 
   <string name="would_you_like_to"> अहाँ चाहे छि कि अहाँ के ई जानकारी भेटे कि कहीं अहाँ के संपर्क में आयल कोनो व्‍यक्ति COVID-19 पॉजिटिव तऽ नहीं पायल गेलेथ?</string>
   <string name="each_one_of_us">हमरा सभ में भारत में फैल रहल कोरोना वायरस महामारी के रोकवाक क्षमता अछि।</string>
   <string name="simply_1_install_the_app">सबसे पहिले, \n१ ऍप %s करें \n२. %s को स्विच ऑन करू \n३. अपन %s शेयरिंग के ‘Always’ पर सेट करू \n\nऐप के इंस्टॉल करवाक लेल अपन दोस्त और परिवार के सेहो आमंत्रित करू। </string> 
@@ -44,7 +47,9 @@
   <string name="confirm_and_proceed">कन्फर्म करू और आगु बढु</string>
  <string name="sync_data_detail">अहाँके डेटा हमेशा अहाँके फोन पर सेव रहेत अछि. एकरा सुरक्षित सरकारी सर्वर पर शेयर करू अगर…</string>
   <string name="sample_collected_for_testing">टेस्टिंग के लेल सैंपल कलेक्ट भ गेल अछि</string> 
-<string name="tested_positive">Covid19 क टेस्ट पॉजिटिव अछि</string> <string name="syncing_data">डेटा सिंक भ रहल अछि</string> <string name="syncing_data_detail"><![CDATA[भारत सरकार के ब्लूटूथ और GPS के माध्यम सँ प्राप्त संवाद डेटा भेजल जा रहल अछि]]></string> <string name="cancel">कैंसल करू</string>
+<string name="tested_positive">Covid19 क टेस्ट पॉजिटिव अछि</string> 
+<string name="syncing_data">डेटा सिंक भ रहल अछि</string> 
+<string name="syncing_data_detail"><![CDATA[भारत सरकार के ब्लूटूथ और GPS के माध्यम सँ प्राप्त संवाद डेटा भेजल जा रहल अछि]]></string> <string name="cancel">कैंसल करू</string>
   <string name="syncing_data_success">सिंक भ गेल अछि</string>
   <string name="syncing_data_success_detail">अहाँके डेटा आब भारत सरकार के सर्वर पर सुरक्षित अछि.</string> 
 <string name="syncing_data_failed">सिंक नइ भ पेल्</string>
@@ -89,7 +94,9 @@
   <string name="moderate_risk">संक्रमणक मध्यम जोखिम अछि</string> 
 <string name="high_risk">संक्रमणक उच्च जोखिम अछि</string> 
   <string name="tested_positive_status">COVID-19 के लेल सकारात्मक परीक्षण केल गेल अछि</string> 
-<string name="provide_necessary_permission">कृपया अपन क्यूआर कोड बनेबाक लेल आवश्यक अनुमति प्रदान करू</string> <string name="scan_without_perm_alert">ऐप के क्यूआर कोड स्कैनिंग के लेल कैमराक अनुमति चाहि।</string> <string name="open_settings">सेटिंग्स खोलि </string>
+<string name="provide_necessary_permission">कृपया अपन क्यूआर कोड बनेबाक लेल आवश्यक अनुमति प्रदान करू</string>
+ <string name="scan_without_perm_alert">ऐप के क्यूआर कोड स्कैनिंग के लेल कैमराक अनुमति चाहि।</string> 
+<string name="open_settings">सेटिंग्स खोलि </string>
   <string name="common_scanning_error">किछु गलती भेल। कृपया फेर सँ स्कैन करू</string>
   <string name="hamburger_menu_intro"> बहुत नया सुविधा जना की हेल्पलाइन, गोपनीयता नीति, उपयोगक शर्त और अधिक अतअ पायल जा सकएत छी।</string>
 </resources>
